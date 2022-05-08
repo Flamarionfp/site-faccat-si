@@ -381,4 +381,19 @@ section {
     margin: none;
     padding: 5%;
   }
+
+  .grade {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 934px) {
+  h1,
+  h2 {
+    line-height: normal;
+  }
+
+  .titulo {
+    font-size: 22px;
+  }
 }
